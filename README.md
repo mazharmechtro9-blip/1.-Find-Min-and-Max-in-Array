@@ -1,1 +1,0 @@
-# 1.-Find-Min-and-Max-in-Array
